@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\cmk\CMakeFiles\ad952478bfb3c46f911e2b7942c7e236\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B46555C3-D1B7-3199-B368-798CBE2B7F95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

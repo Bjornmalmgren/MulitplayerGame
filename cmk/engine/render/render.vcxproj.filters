@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\window.cc">
+      <Filter>display</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\model.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\renderdevice.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\shaderresource.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\textureresource.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\lightserver.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\cameramanager.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\debugrender.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\grid.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\physics.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\particlesystem.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\World.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\gamepad.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\inputserver.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\key.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\config.cc">
+      <Filter>pch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\window.h">
+      <Filter>display</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\model.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\renderdevice.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\shaderresource.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\textureresource.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\lightserver.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\cameramanager.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\debugrender.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\grid.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\lightsources.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\physics.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\resourceid.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\particlesystem.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\World.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\stb_image.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\stb_image_write.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\json.hpp">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\gltf.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\gamepad.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\inputserver.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\key.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\keyboard.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\input\mouse.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\config.h">
+      <Filter>pch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\engine\render\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="display">
+      <UniqueIdentifier>{B1ACAC9A-312C-3304-B6E4-4AB7DDE4A09A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{1C77ECC2-FEEC-30AB-B952-0ECFC1B044C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{8B052401-FEBC-30B3-950F-11485993509C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render">
+      <UniqueIdentifier>{2DB6E752-C6E7-305C-BB67-F7FA3F9E1F4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

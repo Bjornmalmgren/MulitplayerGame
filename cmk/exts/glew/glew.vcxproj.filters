@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\exts\glew\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\exts\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\exts\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\exts\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bjmall-3-local\Documents\GitHub\s0012e-multiplayer-game-Bjornmalmgren\exts\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2647F06A-3590-3764-8E30-C9BA6F3DD8EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ACB0893A-B7C6-36AE-A986-9A71AFDB5343}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
